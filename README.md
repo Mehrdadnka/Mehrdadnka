@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mehrdadnka;
 - 👀 I’m interested in server side computer programming;
-- 🌱 I’m currently learning Web applications development;
+- 🌱 I’m currently learning  database management;
 - 📫 How to reach me:
      mehrdad2762@gmail.com;
     
