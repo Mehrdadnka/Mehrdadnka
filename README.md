@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mehrdadnka;
 - 👀 I’m interested in web and game development;
-- 🌱 I’m currently working on creating an advanced 3D website;
+- 🌱 I’m currently working on an advanced full stack system;
 - 📫 How to reach me:
      mehrdad2762@gmail.com;
     
