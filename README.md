@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Mehrdad</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mehrdadnka/Mehrdanka/main/assets/mehrdadImg.png" alt="Banner" width="80%" />
+  <img src="https://raw.githubusercontent.com/Mehrdadnka/Mehrdadnka/main/assets/mehrdadImg.png" alt="Mehrdad Banner" width="80%" />
 </p>
 
 ---
