@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Mehrdad</h1>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1604079628048-9433b39cbdc8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMjM4NDZ8MHwxfHNlYXJjaHwxfHxjb2RpbmclMjBhcnR8ZW58MHx8fHwxNjg3MjQzNjQy&ixlib=rb-4.0.3&q=80&w=1200" alt="Banner" width="80%" />
+  <img src="https://images.unsplash.com/photo-1604079628048-9433b39cbdc8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1200" alt="Banner" width="80%" />
 </p>
 
 ---
