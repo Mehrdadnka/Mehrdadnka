@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Mehrdad</h1>
 
 <p align="center">
-  <img src="https://github.com/superiorlu/AITreasureBox" alt="Banner" width="80%" />
+  <img src="https://user-images.githubusercontent.com/1154692/234059336-aa9346bb-0016-41ac-9e1c-c127b84fb0b0.png" alt="Banner" width="80%" />
 </p>
 
 ---
