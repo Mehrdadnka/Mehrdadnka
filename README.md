@@ -1,20 +1,16 @@
 <h1 align="center">👋 Hi, I'm Mehrdad</h1>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mehrdadnka/Mehrdadnka/main/assets/mehrdadImg.png" alt="Mehrdad Banner" width="80%" />
-</p>
 
 ---
 
 🌱 Currently working on:
-- 🛠 Advanced camera management system & Leaflet maps
-- ⚙️ Building fully configurable React components (charts, forms, tables)
-- 🧠 Deep learning for ancient pottery classification
+- 🛠 OS Development 
+- ⚙️ Building fully configurable React components 
 - 🎮 Small game development projects with JavaScript & React
 
 👀 Interested in:
 - Full-stack web development
-- Game development (WebGL, Three.js)
+- OS Development 
 - Robotics and intelligent systems
 - Cybersecurity & ethical hacking
 
