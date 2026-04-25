@@ -79,7 +79,7 @@ const mehrdad = {
     mindset: "Build once, scale forever 🚀",
     currentlyCaffeinated: true ☕
 };
-
+```
 ---
 
 ## 🛠️ Tech Stack
