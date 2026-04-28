@@ -17,7 +17,7 @@
 
 ---
 
-## 🚀 Currently Working On
+## Currently Working On
 
 <table align="center">
   <tr>
@@ -36,7 +36,7 @@
 
 ---
 
-## 💡 Interests
+## Interests
 
 <div align="center">
 
@@ -49,7 +49,7 @@
 
 ---
 
-## 📬 Let's Connect
+## Let's Connect
 
 <p align="center">
   <a href="mailto:mehrdad2762@gmail.com">
@@ -68,23 +68,23 @@
 
 ---
 
-## ⚡ Quick Facts
+## Quick Facts
 
 ```javascript
 
 const mehrdad = {
-    learning: "Deep & systematic 📚",
-    architecture: "Modular & scalable 🏗️",
-    codeQuality: "Clean code & modern patterns ✨",
-    mindset: "Build once, scale forever 🚀",
-    currentlyCaffeinated: true ☕
+    learning: "Deep & systematic",
+    architecture: "Modular & scalable",
+    codeQuality: "Clean code & modern patterns",
+    mindset: "Build once, scale forever",
+    currentlyCaffeinated: true 
 };
 ```
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 🎯 Core
+### Core
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -93,7 +93,7 @@ const mehrdad = {
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-### 🧩 UI Libraries & Components
+### UI Libraries & Components
 <p align="left">
   <img src="https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radix-ui&logoColor=white" alt="Radix UI" />
   <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
@@ -101,14 +101,14 @@ const mehrdad = {
   <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" alt="Leaflet" />
 </p>
 
-### 🧪 Testing
+### Testing
 <p align="left">
   <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest" />
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
   <img src="https://img.shields.io/badge/Unit_Testing-✓-6E9F18?style=for-the-badge" alt="Unit Testing" />
 </p>
 
-### 🗄️ Database & Tools
+### Database & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -117,7 +117,7 @@ const mehrdad = {
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mehrdadnka&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=15&bg_color=0D1117" alt="GitHub Stats" />
@@ -130,7 +130,7 @@ const mehrdad = {
 
 ---
 
-## 🏆 Contribution Graph
+## Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehrdadnka&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true&custom_title=Contribution%20Timeline" alt="Contribution Graph" />
