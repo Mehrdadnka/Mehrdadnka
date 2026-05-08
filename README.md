@@ -89,7 +89,7 @@ My playground is the **edge between frontend and platform**: I explore OS concep
       <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" /><br/><b>Vite</b></td>
       <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br/><b>Git</b></td>
       <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /><br/><b>Node.js</b></td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="SQL/PostgreSQL" /><br/><b>SQL</b></td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br/><b>MySQL</b></td>
       <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" /><br/><b>Vercel</b></td>
     </tr>
   </table>
