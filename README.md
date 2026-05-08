@@ -49,8 +49,8 @@ My playground is the **edge between frontend and platform**: I explore OS concep
   </tr>
 </table>
 
-<details>
-  <summary><strong>📸 Project Screenshots</strong></summary>
+<!-- <details> -->
+  <!-- <summary><strong>📸 Project Screenshots</strong></summary>
   <br/>
   <p align="center">
     <img src="public/Dashboard.png" width="45%" alt="Dashboard" />
@@ -58,7 +58,7 @@ My playground is the **edge between frontend and platform**: I explore OS concep
     <img src="public/dashboard-sidebar.png" width="45%" alt="Sidebar" />
     <img src="public/homepage-mobile.png" width="45%" alt="Mobile View" />
   </p>
-</details>
+</details> -->
 
 ---
 
