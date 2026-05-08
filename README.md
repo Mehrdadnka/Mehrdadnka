@@ -151,16 +151,20 @@ My playground is the **edge between frontend and platform**: I explore OS concep
 ## 📈 Activity & Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mehrdadnka&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=15&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehrdadnka&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehrdadnka&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehrdadnka&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true&custom_title=Contribution%20Timeline" />
+</div>
+
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mehrdadnka/mehrdadnka/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mehrdadnka/mehrdadnka/output/github-contribution-grid-snake.svg">
+    <img alt="Snake animation eating my contributions" src="https://raw.githubusercontent.com/mehrdadnka/mehrdadnka/output/github-contribution-grid-snake-dark.svg">
+  </picture>
 </div>
 
 ---
